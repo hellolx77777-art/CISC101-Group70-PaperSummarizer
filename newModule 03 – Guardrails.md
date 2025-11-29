@@ -185,3 +185,4 @@ This module defines the canonical wording for warnings, which should be reused e
   - `"The source text does not provide enough detail to summarize this section in strict evidence mode."`
 
 By centralizing these messages here, the system remains consistent and easy to maintain.
+
